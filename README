@@ -1,9 +1,8 @@
-
 0. 맨처음 navigator 우클릭 음--; github연결하는걸 까묵었구만--;; 다시 배워야할듯.
 
-1. 이클립스에서 작업하기전 github에서 다운로드..pull
+1. 이클립스에서 작업하기전 github에서 다운로드..Git Repositories 에서  pull 클릭.
 
-2. 이클립스 작업후 >README 파일에 >표시가 있을경우 마우스 우클릭 후 team > commit
+2. 이클립스 작업후 >README 파일에 >표시가 있을경우 마우스 우클릭 후 team > commit 클릭.
 
-3. Git Repositories 에서 github에 올릴파일 선택후 우클릭 후 pull to upstream
+3. Git Repositories 에서 github에 올릴파일 선택후 우클릭 후 pull to upstream 클릭.
 
